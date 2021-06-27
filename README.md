@@ -1,5 +1,5 @@
 # TrollGod
 is cool hack
 
-№ how to build?
+# how to build?
 > gradlew build
