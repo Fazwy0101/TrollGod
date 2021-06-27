@@ -1,0 +1,11 @@
+[
+  {
+    "modid": "sputnik",
+    "name": "Sputnik",
+    "description": "",
+    "version": "1.0",
+    "mcversion": "${mcversion}",
+    "authorList": ["hollow, chardnol"],
+    "credits": ""
+  }
+]

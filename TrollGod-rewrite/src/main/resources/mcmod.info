@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "realth",
+    "name": "Realth",
+    "description": "",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["hollow", "chardn0l"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
